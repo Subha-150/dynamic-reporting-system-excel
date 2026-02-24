@@ -39,5 +39,7 @@ Operational Efficiency: Automated a manual reporting task, reducing processing t
 Departmental Trends: Isolated high-spending departments through automated pivot table grouping.
 Visual Clarity: Provided instant trend identification via embedded bar charts, making raw numbers easier to interpret.
 
+<img width="512" height="183" alt="image" src="https://github.com/user-attachments/assets/45efdfc4-167e-4651-ac82-0944cf55eeac" />
+
 <img width="862" height="380" alt="Excel_output" src="https://github.com/user-attachments/assets/e3e54c9b-273d-4d9b-a8d4-471ddee94a7f" />
 
